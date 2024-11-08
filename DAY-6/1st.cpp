@@ -1,4 +1,4 @@
-! Write a C++ program to implement multilevel inheritance of student regestration system.
+//! Write a C++ program to implement multilevel inheritance of student regestration system.
 #include <iostream>
 #include <string>
 
