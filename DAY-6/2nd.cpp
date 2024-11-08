@@ -1,3 +1,4 @@
+//! Write a C++ program to implement hybrid inheritance of university examination system.
 #include <iostream>
 using namespace std;
 
